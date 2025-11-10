@@ -1,0 +1,24 @@
+# Dependencies
+node_modules
+README.md
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+.env*
+!.env.example
+
+# Build outputs
+.next/
+out/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
