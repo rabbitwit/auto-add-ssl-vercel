@@ -71,6 +71,12 @@ GET /api/add-ssl?zoneId=...&email=...&apikey=...&enabled=true&ca=ssl_com
 
 ip6.arpa 域名通常仅支持 `ssl_com` 作为证书颁发机构。
 
+## 联系作者
+
+联系作者：[https://github.com/eooce](https://github.com/eooce)
+
+感谢原始作者的贡献!
+
 ## 许可证
 
 本项目遵循原始作者的许可证。
